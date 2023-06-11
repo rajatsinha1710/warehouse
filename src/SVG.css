@@ -1,5 +1,10 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
-
+.lvl-1{
+    cursor: pointer;
+    transition: transform 5s ease-in-out;
+}
+.active{
+    
+}
